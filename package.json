@@ -1,0 +1,21 @@
+{
+  "name": "andersen_js_tasks",
+  "version": "1.0.0",
+  "description": "test tasks",
+  "main": "task3.js",
+  "scripts": {
+    "task1": "node task1.js",
+    "task2": "node task2.js",
+    "task3": "node task3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krystsynalud89/Andersen_JS_Tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krystsynalud89/Andersen_JS_Tasks/issues"
+  },
+  "homepage": "https://github.com/krystsynalud89/Andersen_JS_Tasks#readme"
+}
